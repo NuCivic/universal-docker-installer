@@ -29,11 +29,11 @@ Download and unzip the latest release and move the appropriate binary for your p
 
 Example:
 ```
-sudo wget -q https://github.com/devinci-code/ahoy/releases/download/1.1.0/ahoy-`uname -s`-amd64 -O /usr/local/bin/ahoy && sudo chown $USER /usr/local/bin/ahoy && chmod +x /usr/local/bin/ahoy
+sudo wget -q https://github.com/DevinciHQ/ahoy/releases/download/1.1.0/ahoy-`uname -s`-amd64 -O /usr/local/bin/ahoy && sudo chown $USER /usr/local/bin/ahoy && chmod +x /usr/local/bin/ahoy
 ```
 
 ### More details on shell completion and usage
-https://github.com/devinci-code/ahoy
+https://github.com/DevinciHQ/ahoy
 
 # Troubleshooting
 
