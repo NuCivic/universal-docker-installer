@@ -41,8 +41,8 @@ commands:
         mkdir $share
       fi
 
-      echo "*** Setting up perl-digest-hmac..."
-      yaourt -S perl-digest-hmac
+      echo "*** Setting up dependencies..."
+      yaourt -S linux-headers openssh wget perl-digest-hmac
 
   virtualbox:
     usage: Install Virtualbox
